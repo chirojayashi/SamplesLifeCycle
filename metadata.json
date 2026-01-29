@@ -1,0 +1,8 @@
+
+{
+  "name": "Ciclo de Vida de Producto Sole-Rinnai",
+  "description": "Una aplicación integral para gestionar el registro de muestras, inspecciones y fichas técnicas de nuevos productos, con análisis inteligente impulsado por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
